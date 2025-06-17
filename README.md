@@ -28,6 +28,10 @@ Bu proje, STM32 mikrodenetleyici kullanılarak harici kesmeler (EXTI) ile butonl
   - Sayaç `-1` azalır.
 
 ## 💡 Geliştirme Ortamı
-- STM32CubeIDE
+- STM32CubeIDE![Ornek_Resim]
+
 - STM32F4 serisi (örnek: NUCLEO-F410RB)
 - C dili (HAL Kütüphanesi)
+
+
+![Ornek_Resim](https://github.com/user-attachments/assets/bed9a685-09b1-407b-b693-e28fb1aed965)
